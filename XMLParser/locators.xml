@@ -1,0 +1,8 @@
+<locators>
+    <homepage>
+        <header>//div[@id='header']</header>
+    </homepage>
+    <loginpage>
+        <loginBtn>//button[@id='login-btn']</loginBtn>   
+    </loginpage>
+</locators>
