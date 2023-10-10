@@ -1,0 +1,11 @@
+{
+    "testCase1": {
+        "name": "new Functionality",
+        "steps": [
+            "steps here"
+        ],
+        "result": [
+            "results here"
+        ]
+    }
+}
